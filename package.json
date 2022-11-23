@@ -1,5 +1,5 @@
 {
-  "name": "modules-excercise-1",
+  "name": "modules-exercise-1",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -12,6 +12,9 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@nestjs/typeorm": "^9.0.0",
+    "typeorm": "^0.3.10",
+    "sqlite3": "^5.1.2",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.0.0",
     "tslib": "^2.3.0"

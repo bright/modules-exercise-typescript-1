@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@modules-exercise-1/models": ["libs/models/src/index.ts"],
+      "@modules-exercise-1/services": ["libs/services/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

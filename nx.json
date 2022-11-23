@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "modules-excercise-1",
+  "npmScope": "modules-exercise-1",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
@@ -32,5 +32,5 @@
     ],
     "sharedGlobals": []
   },
-  "defaultProject": "modules"
+  "defaultProject": "api"
 }
